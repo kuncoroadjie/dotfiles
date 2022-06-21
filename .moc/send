@@ -1,0 +1,4 @@
+#!/bin/sh
+FILESONG=$(basename "$(mocp -Q %file)")
+
+notify-send -i audio-card "$FILESONG"

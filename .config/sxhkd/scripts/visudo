@@ -1,0 +1,1 @@
+bangkun ALL=(ALL) NOPASSWD: /usr/bin/xbacklight

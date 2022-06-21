@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/bangkun/.vim/autoload'
+let g:netrw_dirhist_7='/home/bangkun/.vim'
+let g:netrw_dirhist_6='/usr/share/applications'
+let g:netrw_dirhist_5='/home/bangkun/apps'
+let g:netrw_dirhist_4='/home/bangkun/Downloads/KELOMPOK 5'
+let g:netrw_dirhist_3='/home/bangkun/.config/dunst'
+let g:netrw_dirhist_2='/home/bangkun/.moc'
+let g:netrw_dirhist_1='/home/bangkun/.config/neofetch'
+let g:netrw_dirhist_0='/home/bangkun/Documents'
+let g:netrw_dirhist_9='/home/bangkun/.config/sxhkd'
