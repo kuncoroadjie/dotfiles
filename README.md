@@ -2,6 +2,9 @@
 My personal dotfiles backup
 
 # Details
+
+|         Item          | Value                                           |
+| :-------------------: | :---------------------------------------------- |
 |          OS           | ArchLinux                                       |
 |          WM           | bspwm										                        |
 |         Shell         | fish, bash																		  |
